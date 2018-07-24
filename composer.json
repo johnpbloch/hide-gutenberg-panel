@@ -1,0 +1,8 @@
+{
+    "name": "johnpbloch/hide-gutenberg-panel",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
